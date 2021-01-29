@@ -8,3 +8,6 @@ Tensorflow implementation of our robust multimodal brain tumor segmentation fram
 MICCAI 2019
 <br/>
 <br/>
+<p align="center">
+  <img src="figure/framework.png">
+</p>
