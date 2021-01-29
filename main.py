@@ -15,9 +15,9 @@ from stats_func import *
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 
-train_list_pth = '../../Data/train_brats15_HeMIS_extend.txt'
-valid_list_pth = '../../Data/test_brats15_HeMIS_match.txt'
-train_data_pth = os.getcwd().split('/Multimodal/')[0]+'/BRATS2015_process_crop_tf/training'
+train_list_pth = ''
+valid_list_pth = ''
+train_data_pth = ''
 evaluation_interval = 10
 visual_interval = 300
 save_interval = 500
