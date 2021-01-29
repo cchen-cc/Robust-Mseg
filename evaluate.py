@@ -17,9 +17,9 @@ import time
 
 model_list = [89999]
 
-test_list_pth = ''
 base_fd = ''
 raw_data_pth = ''
+test_list_pth = './datalist/test.txt'
 
 CHECKPOINT_PATH_LIST = ['./output/multimodal-' + str(i) for i in model_list]
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
