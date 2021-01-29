@@ -14,10 +14,9 @@ from stats_func import *
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
-
-train_list_pth = ''
-valid_list_pth = ''
 train_data_pth = ''
+train_list_pth = './datalist/train.txt'
+valid_list_pth = './datalist/test.txt'
 evaluation_interval = 10
 visual_interval = 300
 save_interval = 500
