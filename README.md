@@ -20,7 +20,7 @@ cd Robust-Mseg
 * Use `nii2tfrecord` function in `./preprocessing.py` to convert `nii` data into `tfrecord` format to be decoded by `./data_loader.py`
 
 ## Train
-* Specify the data path `./main.py`
+* Specify the data path in `./main.py`
 * Run `./main.py` to start the training process
 
 ## Evaluate
