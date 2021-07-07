@@ -41,5 +41,4 @@ If you find the code useful for your research, please consider cite our paper.
 }
 ```
 ## Note
-* The repository is being updated
 * Contact: Cheng Chen (chencheng236@gmail.com)
